@@ -1,2 +1,8 @@
 this is my class
 this is my second subject
+
+function public()
+{
+print_f("this is my second class");
+
+}
