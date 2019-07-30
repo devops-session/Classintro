@@ -5,4 +5,11 @@ function public()
 {
 print_f("this is my second class");
 void();
+exit();
+}
+
+fuction add()
+{
+int a;
+print_f("value of a is 1"+a);
 }
