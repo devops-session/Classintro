@@ -6,4 +6,8 @@ print_f("this is my third class");
 void();
 }
 
-exit;
+function todayclass($a)
+{
+int $a=1;
+print_f("value of a is"+$a);
+}
