@@ -1,0 +1,9 @@
+this is my second class
+
+function myclass()
+{
+print_f("this is my third class");
+void();
+}
+
+exit;
