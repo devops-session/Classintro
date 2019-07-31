@@ -2,12 +2,14 @@ this is my second class
 
 function myclass()
 {
-print_f("this is my third class");
+print_f("this is a  is my third class");
 void();
 }
 
 function todayclass($a)
 {
 int $a=1;
-print_f("value of a is"+$a);
+print_f("value of a name value of a is"+$a);
 }
+this is my new line 
+thi is recoreded file 
